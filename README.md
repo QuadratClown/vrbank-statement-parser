@@ -1,5 +1,5 @@
 # vrbank-statement-parser
-Parse statements by Volksbank Raiffeisenbank
+A simple tool to parse statements by Volksbank Raiffeisenbank. The output can be piped from the command line or saved into a .tsv file.
 
 ## Usage
 
